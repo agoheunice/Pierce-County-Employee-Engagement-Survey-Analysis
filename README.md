@@ -9,6 +9,18 @@ This project analyzes employee survey responses to evaluate employee engagement,
 The dataset was cleaned and transformed using Microsoft Excel Power Query, analyzed with PivotTables, and presented a dashboard featuring KPIs, and charts. 
 The analysis aims to identify engagement strengths, highlight areas requiring improvement, and provide evidence-based recommendations to support better workplace decision-making.
 
+## Tools Used
+
+-Microsoft Excel
+
+-Power Query
+
+-PivotTables & PivotCharts
+
+-Excel Dashboard
+
+-Data Visualization
+
 
 ## Key Metrics:
 
